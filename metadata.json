@@ -1,0 +1,6 @@
+{
+  "name": "Docufy - Cross-Border Blockchain Document Verification",
+  "description": "Enterprise-grade cross-border trade document authenticity, provenance, tamper detection, and instant international verification powered by cryptographic hashing and blockchain anchoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
